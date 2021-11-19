@@ -1,9 +1,9 @@
-package ru.avbugorov.interviewpreparation.list_impl.tests;
+package ru.avbugorov.interviewpreparation.hw2.test.tests;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.avbugorov.interviewpreparation.list.MyList;
-import ru.avbugorov.interviewpreparation.list_impl.MyLinkedList;
+import ru.avbugorov.interviewpreparation.hw2.list.MyLinkedList;
+import ru.avbugorov.interviewpreparation.hw2.list.MyList;
 
 public class LinkedListTests {
     private MyList<Integer> myLinkedList = new MyLinkedList<>();

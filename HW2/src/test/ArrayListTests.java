@@ -1,12 +1,10 @@
-package ru.avbugorov.interviewpreparation.list_impl.tests;
+package ru.avbugorov.interviewpreparation.hw2.test.tests;
 
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import ru.avbugorov.interviewpreparation.list.MyList;
-import ru.avbugorov.interviewpreparation.list_impl.MyArrayList;
-import ru.avbugorov.interviewpreparation.list_impl.MyLinkedList;
+import ru.avbugorov.interviewpreparation.hw2.list.MyArrayList;
+import ru.avbugorov.interviewpreparation.hw2.list.MyList;
+
 
 public class ArrayListTests {
     private MyList<Integer> myArrayList = new MyArrayList();
