@@ -1,8 +1,7 @@
-package ru.avbugorov.interviewpreparation.list_impl;
+package ru.avbugorov.interviewpreparation.hw2.list;
 
-import ru.avbugorov.interviewpreparation.list.MyList;
+import ru.avbugorov.interviewpreparation.hw2.list.MyList;
 
-import java.util.LinkedList;
 import java.util.NoSuchElementException;
 
 public class MyLinkedList<E> implements MyList<E> {

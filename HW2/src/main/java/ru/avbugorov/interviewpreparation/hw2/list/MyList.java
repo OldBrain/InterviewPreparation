@@ -1,4 +1,4 @@
-package ru.avbugorov.interviewpreparation.list;
+package ru.avbugorov.interviewpreparation.hw2.list;
 
 public interface MyList<E> {
 
